@@ -1,4 +1,4 @@
-# Top Eleven Market Analyzer
+# Lion Tactic Market Analyzer
 
 - Projeto desenvolvido em português.
 - Documentation available in English.
@@ -7,7 +7,7 @@
 
 ## Overview
 
-Top Eleven Market Analyzer is a data-driven solution developed to evaluate player market values and identify auction opportunities in the Top Eleven football management game.
+Lion Tactic Market Analyzer is a data-driven solution developed to evaluate player market values and identify auction opportunities in the Lion Tactic football management game.
 
 The project combines Power BI dashboards and an Excel-based simulator to estimate fair player prices, compare market values, and support data-driven transfer decisions.
 
